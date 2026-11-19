@@ -37,23 +37,18 @@ export default function App() {
     },
     {
       title: "ConnectTransit SA",
-      subtitle: "Community safety",
-      badge: "Startup idea",
-      description: "Developed a full-stack mobile-focused public transport safety application built with Next.js and TypeScript on the frontend, backed by a Node.js, Express.js, 
-      and PostgreSQL (PLpgSQL) architecture. Implemented silent panic alerts, live GPS location tracking, and direct incident reporting, integrating real-time backend APIs and geolocation
-       services to securely transmit active trip telemetry and commuter reports through a streamlined interface built for fast emergency activation.",
-      tech: ["Next.js, TypeScript, Node.js, Express.js, PostgreSQL"],
-      demo: "GITHUB, I didn't deploy it"
+      subtitle: "Community Safety Platform",
+      badge: "Startup Idea",
+      description: "Developed a full-stack mobile-focused public transport safety application built with Next.js and TypeScript on the frontend, backed by a Node.js, Express.js, and PostgreSQL (PLpgSQL) architecture. Implemented silent panic alerts, live GPS location tracking, and direct incident reporting, integrating real-time backend APIs and geolocation services to securely transmit active trip telemetry and commuter reports through a streamlined interface built for fast emergency activation.",
+      tech: ["Next.js", "TypeScript", "Node.js", "Express.js", "PostgreSQL"],
+      demo: "https://github.com/NyikogivenVumani-web" // Replace with exact repo link
     },
     {
       title: "ShelfWise",
-      subtitle: "B2B inventory management, monitor daily sales",
+      subtitle: "B2B Inventory Management & Daily Sales",
       badge: "Business Solution",
-      description: "Architected a full-stack B2B inventory management application that helps small businesses track stock levels, monitor daily sales, and run barcode scanning
-      workflows. Engineered a live PostgreSQL database and Node.js/Express.js RESTful API layer to support real-time inventory updates, product categorization, and transactional
-      data integrity, paired with a type-safe React and TypeScript interface that turns stock metrics into daily operational insights.",
-
-      tech: ["TypeScript, React, Node.js, Express.js, PostgreSQL"],
+      description: "Architected a full-stack B2B inventory management application that helps small businesses track stock levels, monitor daily sales, and run barcode scanning workflows. Engineered a live PostgreSQL database and Node.js/Express.js RESTful API layer to support real-time inventory updates, product categorization, and transactional data integrity, paired with a type-safe React and TypeScript interface that turns stock metrics into daily operational insights.",
+      tech: ["TypeScript", "React", "Node.js", "Express.js", "PostgreSQL"],
       demo: "https://shelfwise-psi.vercel.app/"
     },
     {
