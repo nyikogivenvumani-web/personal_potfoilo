@@ -36,12 +36,25 @@ export default function App() {
       demo: "https://mahumanitech.vercel.app/"
     },
     {
-      title: "DORLJOTA Taxi Association",
-      subtitle: "Commuter Information & Feedback Portal",
-      badge: "Community Solution",
-      description: "Official web platform designed and deployed for the DORLJOTA Taxi Association to digitize route information, executive leadership contacts, and commuter feedback.",
-      tech: ["HTML5", "CSS3", "JavaScript"],
-      demo: "https://sensational-cactus-abc1ec.netlify.app/"
+      title: "ConnectTransit SA",
+      subtitle: "Community safety",
+      badge: "Startup idea",
+      description: "Developed a full-stack mobile-focused public transport safety application built with Next.js and TypeScript on the frontend, backed by a Node.js, Express.js, 
+      and PostgreSQL (PLpgSQL) architecture. Implemented silent panic alerts, live GPS location tracking, and direct incident reporting, integrating real-time backend APIs and geolocation
+       services to securely transmit active trip telemetry and commuter reports through a streamlined interface built for fast emergency activation.",
+      tech: ["Next.js, TypeScript, Node.js, Express.js, PostgreSQL"],
+      demo: "GITHUB, I didn't deploy it"
+    },
+    {
+      title: "ShelfWise",
+      subtitle: "B2B inventory management, monitor daily sales",
+      badge: "Business Solution",
+      description: "Architected a full-stack B2B inventory management application that helps small businesses track stock levels, monitor daily sales, and run barcode scanning
+      workflows. Engineered a live PostgreSQL database and Node.js/Express.js RESTful API layer to support real-time inventory updates, product categorization, and transactional
+      data integrity, paired with a type-safe React and TypeScript interface that turns stock metrics into daily operational insights.",
+
+      tech: ["TypeScript, React, Node.js, Express.js, PostgreSQL"],
+      demo: "https://shelfwise-psi.vercel.app/"
     },
     {
       title: "Thrive Café Soweto",
@@ -224,10 +237,10 @@ export default function App() {
                 </button>
 
                 <div className="flex items-center space-x-2 pl-2">
-                  <a href="https://github.com/NyikoVumani" target="_blank" rel="noreferrer" className="p-3 rounded-xl bg-[#120a23] border border-purple-900/60 text-zinc-400 hover:text-white hover:border-purple-500 transition-all font-mono text-xs flex items-center gap-1.5">
+                  <a href="https://github.com/NyikogivenVumani-web" target="_blank" rel="noreferrer" className="p-3 rounded-xl bg-[#120a23] border border-purple-900/60 text-zinc-400 hover:text-white hover:border-purple-500 transition-all font-mono text-xs flex items-center gap-1.5">
                     GitHub ↗
                   </a>
-                  <a href="https://linkedin.com/in/nyikovumani" target="_blank" rel="noreferrer" className="p-3 rounded-xl bg-[#120a23] border border-purple-900/60 text-zinc-400 hover:text-white hover:border-purple-500 transition-all font-mono text-xs flex items-center gap-1.5">
+                  <a href="https://linkedin.com/in/nyiko-given-vumani-25b254336" target="_blank" rel="noreferrer" className="p-3 rounded-xl bg-[#120a23] border border-purple-900/60 text-zinc-400 hover:text-white hover:border-purple-500 transition-all font-mono text-xs flex items-center gap-1.5">
                     LinkedIn ↗
                   </a>
                 </div>
@@ -343,10 +356,10 @@ export default function App() {
           </div>
 
           <div className="flex items-center justify-center space-x-4">
-            <a href="https://github.com/NyikoVumani" target="_blank" rel="noreferrer" className="p-3 rounded-full bg-[#120926] border border-purple-800/50 text-purple-300 hover:text-white transition-all font-mono text-xs">
+            <a href="https://github.com/NyikogivenVumani-web" target="_blank" rel="noreferrer" className="p-3 rounded-full bg-[#120926] border border-purple-800/50 text-purple-300 hover:text-white transition-all font-mono text-xs">
               GitHub ↗
             </a>
-            <a href="https://linkedin.com/in/nyikovumani" target="_blank" rel="noreferrer" className="p-3 rounded-full bg-[#120926] border border-purple-800/50 text-purple-300 hover:text-white transition-all font-mono text-xs">
+            <a href="https://linkedin.com/in/nyiko-given-vumani-25b254336" target="_blank" rel="noreferrer" className="p-3 rounded-full bg-[#120926] border border-purple-800/50 text-purple-300 hover:text-white transition-all font-mono text-xs">
               LinkedIn ↗
             </a>
             <a href="mailto:nyikogivenvumani@gmail.com" className="p-3 rounded-full bg-[#120926] border border-purple-800/50 text-purple-300 hover:text-white transition-all">
